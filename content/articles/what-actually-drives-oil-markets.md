@@ -4,8 +4,12 @@ author: "Skyra CIP – Commodity Market Intelligence"
 date: 2026-07-04
 tags: [oil, commodities, supply, demand, inventory, geopolitics, market-intelligence]
 summary: "A research article examining one of the most common misconceptions in commodity markets: while demand is frequently cited as the primary driver of oil prices, short-term market movements are often influenced more directly by changes in supply expectations."
-source: "https://skyra.com.hk"
+description: "Why supply expectations — not short-term demand narratives — often drive oil price moves. Analysis of supply shocks, inventories, geopolitical risk, and market expectations."
+keywords: [oil, supply, demand, commodities, inventory, geopolitics, market-intelligence]
+image: "/images/og/what-actually-drives-oil-markets.svg"
+canonical: "https://skyra.com.hk/articles/what-actually-drives-oil-markets"
 language: en
+twitter_card: "summary_large_image"
 ---
 
 # What Actually Drives Oil Markets: Supply, Not Demand Narratives
