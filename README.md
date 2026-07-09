@@ -66,7 +66,7 @@ A comprehensive overview of how modern commodity intelligence supports decision-
 
 **Also available on:**
 - 📝 [Medium](https://medium.com/@SkyraCIP/the-complete-guide-to-commodity-market-intelligence-in-2026-7133db1deb8f)
-- 💼 [LinkedIn](https://www.linkedin.com/posts/skyra-cip_the-complete-guide-to-commodity-market-intelligence-activity-7479451743982911488-FUlU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAATnwcQBYXuA2tqWQlnq9Nhh3oMhF2e5WQI)
+- 💼 [LinkedIn](https://www.linkedin.com/posts/skyra-cip_the-complete-guide-to-commodity-market-intelligence-activity-7479451743982911488-FUlU?utm_source=share&utm_medium=member_desktop&rcm=ACoA[...]
 - 𝕏 [X/Twitter](https://x.com/SkyraCIP/status/2073687759848399119)
 
 #### What You'll Learn
@@ -92,11 +92,50 @@ This pillar article covers **10 key pillars** of commodity market intelligence:
 - 🔹 **AI is transforming markets** - Technology enabling better analysis and faster decisions
 - 🔹 **Global dynamics matter** - Trade flows and geopolitics affect local markets
 
-**[Read Full Article in Repository](/articles/complete-guide-commodity-market-intelligence-2026.md)** | [Read on Medium](https://medium.com/@SkyraCIP/the-complete-guide-to-commodity-market-intelligence-in-2026-7133db1deb8f) | [Discuss on LinkedIn](https://www.linkedin.com/posts/skyra-cip_the-complete-guide-to-commodity-market-intelligence-activity-7479451743982911488-FUlU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAATnwcQBYXuA2tqWQlnq9Nhh3oMhF2e5WQI)
+**[Read Full Article in Repository](/articles/complete-guide-commodity-market-intelligence-2026.md)** | [Read on Medium](https://medium.com/@SkyraCIP/the-complete-guide-to-commodity-market-intelli[...]
 
 ---
 
 ## Research Articles
+
+### The Truth About FOB vs CIF Pricing in Global Trade
+
+**Published:** July 9, 2026 | **Author:** Skyra CIP – Commodity Market Intelligence
+
+A practical guide to understanding the differences between FOB and CIF pricing structures in international trade.
+
+#### Topics Covered
+
+- FOB explained
+- CIF explained
+- Cost allocation
+- Risk transfer
+- Freight responsibilities
+- Pricing transparency
+- International trade strategy
+- Procurement decision-making
+
+#### Key Takeaways
+
+- 🔹 **FOB and CIF are not simply pricing methods** - They define risk and responsibility allocation
+- 🔹 **Freight responsibility affects total transaction cost** - Direct price comparisons can be misleading
+- 🔹 **Risk transfer differs significantly between the two structures** - Understanding this prevents disputes
+- 🔹 **Understanding trade terms improves negotiation outcomes** - Knowledge is leverage in negotiations
+
+#### Why It Matters
+
+For:
+- **Commodity traders** - Optimize cost structures and margins
+- **Procurement teams** - Make informed purchasing decisions
+- **Importers & Exporters** - Manage supply chain costs
+- **Logistics professionals** - Understand responsibility boundaries
+- **Supply chain managers** - Improve overall transaction efficiency
+
+Understanding FOB and CIF can improve cost visibility, risk management, and transaction efficiency.
+
+**[Read Full Article in Repository](/the-truth-about-fob-vs-cif-pricing-in-global-trade.md)**
+
+---
 
 ### The Hidden Structure Behind Global Diesel Pricing (EN590 Explained)
 
@@ -175,6 +214,13 @@ This repository focuses on:
 - 🎯 Strategic planning resources
 - 📚 Educational content
 
+### International Trade
+- 🌍 FOB and CIF pricing structures
+- 📦 Incoterms and trade terms
+- 🚢 Ocean freight and logistics
+- 💱 Currency and payment terms
+- 📋 Trade documentation and compliance
+
 ---
 
 ## Key Resources
@@ -183,11 +229,11 @@ This repository focuses on:
 
 | Audience | Focus Area | Key Articles |
 |----------|-----------|--------------|
-| **Traders** | Price drivers, market signals | Complete Guide, EN590 Diesel Pricing |
-| **Logistics Managers** | Transportation costs, inventory | Refining Economics, Logistics Impact |
-| **Procurement Teams** | Cost optimization, forecasting | Diesel Pricing, Regulatory Updates |
+| **Traders** | Price drivers, market signals | Complete Guide, EN590 Diesel Pricing, FOB vs CIF |
+| **Logistics Managers** | Transportation costs, inventory | Refining Economics, Logistics Impact, FOB vs CIF |
+| **Procurement Teams** | Cost optimization, forecasting | Diesel Pricing, Regulatory Updates, FOB vs CIF |
 | **Investors** | Market trends, opportunities | Market Intelligence, Regulatory Trends |
-| **Students/Researchers** | Foundational knowledge | Complete Guide, EN590 Standards |
+| **Students/Researchers** | Foundational knowledge | Complete Guide, EN590 Standards, International Trade |
 
 ### Social Media & External Links
 
@@ -233,7 +279,7 @@ This repository contains research and educational content. To contribute:
 
 ## Disclaimer
 
-This content is for educational and informational purposes only. It is not investment advice, and should not be used as the sole basis for trading or investment decisions. Energy markets are complex and volatile; always consult with qualified professionals before making trading or investment decisions.
+This content is for educational and informational purposes only. It is not investment advice, and should not be used as the sole basis for trading or investment decisions. Energy markets are comp[...]
 
 ---
 
@@ -243,7 +289,7 @@ This repository and its contents are provided for educational use. See LICENSE f
 
 ---
 
-**Last Updated:** July 5, 2026  
+**Last Updated:** July 9, 2026  
 **Maintained by:** Skyra CIP – Commodity Market Intelligence  
 **Website:** https://skyra.com.hk
 
@@ -251,16 +297,16 @@ This repository and its contents are provided for educational use. See LICENSE f
 
 ## SEO Optimization
 
-**Keywords:** commodity market intelligence, commodity markets 2026, supply analysis, demand analysis, logistics intelligence, inventory monitoring, pricing intelligence, market transparency, risk management, artificial intelligence commodities, oil markets, energy markets, global trade, market analysis, diesel pricing, EN590, fuel markets, energy trading, refining margins, crude oil
+**Keywords:** commodity market intelligence, commodity markets 2026, supply analysis, demand analysis, logistics intelligence, inventory monitoring, pricing intelligence, market transparency, ris[...]
 
 **External Backlinks:**
 - [Medium: The Complete Guide to Commodity Market Intelligence in 2026](https://medium.com/@SkyraCIP/the-complete-guide-to-commodity-market-intelligence-in-2026-7133db1deb8f)
-- [LinkedIn: Skyra CIP Commodity Market Intelligence](https://www.linkedin.com/posts/skyra-cip_the-complete-guide-to-commodity-market-intelligence-activity-7479451743982911488-FUlU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAATnwcQBYXuA2tqWQlnq9Nhh3oMhF2e5WQI)
+- [LinkedIn: Skyra CIP Commodity Market Intelligence](https://www.linkedin.com/posts/skyra-cip_the-complete-guide-to-commodity-market-intelligence-activity-7479451743982911488-FUlU?utm_source=sha[...]
 - [X/Twitter: @SkyraCIP Commodity Market Intelligence](https://x.com/SkyraCIP/status/2073687759848399119)
 - [Official Website: Skyra CIP](https://skyra.com.hk)
 
 ---
 
 **Repository Status:** Active & Updated  
-**Last Article:** July 5, 2026  
+**Last Article:** July 9, 2026  
 **Follow for Updates:** [GitHub](https://github.com/skyra-cip) | [Medium](https://medium.com/@SkyraCIP) | [LinkedIn](https://www.linkedin.com/company/skyra-cip) | [X](https://x.com/SkyraCIP)
