@@ -1,8 +1,15 @@
 ---
 title: "Why Your Supplier's Price Might Not Reflect the Market"
+author: "Skyra CIP – Commodity Market Intelligence"
 date: 2026-08-03
-author: skyra-cip research team
 tags: [procurement, market-intelligence, suppliers, pricing]
+summary: "Why supplier quotes can diverge from spot or benchmark prices and how procurement teams can diagnose and act on those differences."
+description: "Explains operational, financial and commercial reasons supplier prices may not mirror the market and recommends diagnostics and actionable steps for procurement teams."
+keywords: [procurement, suppliers, pricing, landed cost, hedging, market-intelligence]
+image: "/images/og/why-your-suppliers-price-might-not-reflect-the-market.svg"
+canonical: "https://skyra.com.hk/articles/why-your-suppliers-price-might-not-reflect-the-market"
+language: en
+twitter_card: "summary_large_image"
 ---
 
 # Why Your Supplier's Price Might Not Reflect the Market
