@@ -98,6 +98,45 @@ This pillar article covers **10 key pillars** of commodity market intelligence:
 
 ## Research Articles
 
+### 7 Hidden Costs That Make Commodity Procurement More Expensive
+
+**Published:** August 4, 2026 | **Author:** Skyra CIP – Commodity Market Intelligence
+
+Most procurement teams focus on supplier quotations. Professional buyers focus on total acquisition cost. This research explains seven hidden cost factors that influence commodity procurement.
+
+#### Topics Covered
+
+- Commodity Procurement
+- Procurement Intelligence
+- Commodity Pricing
+- Supply Chain
+- Supplier Evaluation
+- Risk Management
+- Total Cost of Ownership (TCO)
+
+#### Key Takeaways
+
+- 🔹 **The cheapest quote is rarely the lowest-cost transaction** - Total cost analysis is essential
+- 🔹 **Logistics and financing significantly affect procurement economics** - Hidden costs matter
+- 🔹 **Supplier verification reduces execution risk** - Due diligence saves money
+- 🔹 **Procurement decisions should combine pricing with market intelligence** - Data-driven decisions win
+- 🔹 **Total Cost of Ownership provides a more accurate decision framework** - TCO beats price alone
+
+#### Why It Matters
+
+For:
+- **Procurement Teams** - Optimize purchasing decisions and reduce hidden costs
+- **Supply Chain Managers** - Improve total cost analysis and supplier evaluation
+- **Commodity Buyers** - Make informed decisions beyond quoted prices
+- **Finance Teams** - Understand true cost of acquisition
+- **Risk Managers** - Identify supplier and market risks affecting costs
+
+Understanding the seven hidden costs in commodity procurement can significantly improve purchasing strategies and bottom-line results.
+
+**[Read Full Article in Repository](/hidden-costs-commodity-procurement.md)**
+
+---
+
 ### The Truth About FOB vs CIF Pricing in Global Trade
 
 **Published:** July 9, 2026 | **Author:** Skyra CIP – Commodity Market Intelligence
@@ -221,6 +260,13 @@ This repository focuses on:
 - 💱 Currency and payment terms
 - 📋 Trade documentation and compliance
 
+### Procurement & Supply Chain
+- 🛍️ Commodity procurement strategies
+- 📊 Total Cost of Ownership (TCO)
+- 🔍 Supplier evaluation and verification
+- 💰 Hidden cost analysis
+- 📈 Cost optimization techniques
+
 ---
 
 ## Key Resources
@@ -230,8 +276,8 @@ This repository focuses on:
 | Audience | Focus Area | Key Articles |
 |----------|-----------|--------------|
 | **Traders** | Price drivers, market signals | Complete Guide, EN590 Diesel Pricing, FOB vs CIF |
-| **Logistics Managers** | Transportation costs, inventory | Refining Economics, Logistics Impact, FOB vs CIF |
-| **Procurement Teams** | Cost optimization, forecasting | Diesel Pricing, Regulatory Updates, FOB vs CIF |
+| **Logistics Managers** | Transportation costs, inventory | Refining Economics, Logistics Impact, FOB vs CIF, Hidden Costs |
+| **Procurement Teams** | Cost optimization, forecasting | Diesel Pricing, Regulatory Updates, FOB vs CIF, Hidden Costs |
 | **Investors** | Market trends, opportunities | Market Intelligence, Regulatory Trends |
 | **Students/Researchers** | Foundational knowledge | Complete Guide, EN590 Standards, International Trade |
 
@@ -289,7 +335,7 @@ This repository and its contents are provided for educational use. See LICENSE f
 
 ---
 
-**Last Updated:** July 9, 2026  
+**Last Updated:** August 4, 2026  
 **Maintained by:** Skyra CIP – Commodity Market Intelligence  
 **Website:** https://skyra.com.hk
 
@@ -308,5 +354,5 @@ This repository and its contents are provided for educational use. See LICENSE f
 ---
 
 **Repository Status:** Active & Updated  
-**Last Article:** July 9, 2026  
+**Last Article:** August 4, 2026  
 **Follow for Updates:** [GitHub](https://github.com/skyra-cip) | [Medium](https://medium.com/@SkyraCIP) | [LinkedIn](https://www.linkedin.com/company/skyra-cip) | [X](https://x.com/SkyraCIP)
