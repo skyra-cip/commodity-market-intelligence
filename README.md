@@ -98,6 +98,44 @@ This pillar article covers **10 key pillars** of commodity market intelligence:
 
 ## Research Articles
 
+### How Procurement Teams Benchmark Supplier Prices Like Professionals
+
+**Published:** August 5, 2026 | **Author:** Skyra CIP – Commodity Market Intelligence
+
+Professional procurement teams don't compare supplier quotations in isolation. They benchmark prices against market references, logistics costs, commercial terms, supplier reliability, and execution risk to determine true commercial value.
+
+#### Topics Covered
+
+- Commodity Procurement
+- Supplier Benchmarking
+- Procurement Intelligence
+- Commodity Pricing
+- Market Intelligence
+- Supplier Evaluation
+- Commercial Risk
+- Total Cost of Ownership
+
+#### Key Takeaways
+
+- 🔹 **Benchmark supplier prices using independent market data** - Market references provide objective comparison points
+- 🔹 **Compare total delivered cost—not just the quoted price** - True commercial value includes all cost factors
+- 🔹 **Evaluate payment terms and Incoterms** - Commercial terms significantly affect total cost
+- 🔹 **Assess supplier reliability alongside pricing** - Execution risk is a cost factor
+- 🔹 **Use market intelligence and AI to improve procurement decisions** - Data-driven decisions optimize value
+
+#### Why It Matters
+
+For:
+- **Procurement Teams** - Make informed purchasing decisions based on total value, not just price
+- **Supply Chain Managers** - Improve supplier evaluation and cost analysis
+- **Commodity Buyers** - Compare quotes using professional benchmarking methods
+- **Finance Teams** - Understand true total cost of acquisition
+- **Risk Managers** - Evaluate supplier reliability and execution risk
+
+**[Read Full Article in Repository](/how-procurement-teams-benchmark-supplier-prices.md)**
+
+---
+
 ### 7 Hidden Costs That Make Commodity Procurement More Expensive
 
 **Published:** August 4, 2026 | **Author:** Skyra CIP – Commodity Market Intelligence
@@ -277,7 +315,7 @@ This repository focuses on:
 |----------|-----------|--------------|
 | **Traders** | Price drivers, market signals | Complete Guide, EN590 Diesel Pricing, FOB vs CIF |
 | **Logistics Managers** | Transportation costs, inventory | Refining Economics, Logistics Impact, FOB vs CIF, Hidden Costs |
-| **Procurement Teams** | Cost optimization, forecasting | Diesel Pricing, Regulatory Updates, FOB vs CIF, Hidden Costs |
+| **Procurement Teams** | Cost optimization, forecasting | Benchmarking Supplier Prices, Diesel Pricing, Regulatory Updates, FOB vs CIF, Hidden Costs |
 | **Investors** | Market trends, opportunities | Market Intelligence, Regulatory Trends |
 | **Students/Researchers** | Foundational knowledge | Complete Guide, EN590 Standards, International Trade |
 
@@ -335,7 +373,7 @@ This repository and its contents are provided for educational use. See LICENSE f
 
 ---
 
-**Last Updated:** August 4, 2026  
+**Last Updated:** August 5, 2026  
 **Maintained by:** Skyra CIP – Commodity Market Intelligence  
 **Website:** https://skyra.com.hk
 
@@ -354,5 +392,5 @@ This repository and its contents are provided for educational use. See LICENSE f
 ---
 
 **Repository Status:** Active & Updated  
-**Last Article:** August 4, 2026  
+**Last Article:** August 5, 2026  
 **Follow for Updates:** [GitHub](https://github.com/skyra-cip) | [Medium](https://medium.com/@SkyraCIP) | [LinkedIn](https://www.linkedin.com/company/skyra-cip) | [X](https://x.com/SkyraCIP)
