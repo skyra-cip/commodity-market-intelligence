@@ -17,8 +17,18 @@ keywords:
   - energy trading
   - supply analysis
   - demand analysis
+  - commodity procurement
+  - commodity trading
+  - procurement intelligence
+  - procurement-intelligence
+  - commodity-pricing
+  - supplier-pricing
+  - market-signals
+  - supply-chain
+  - global-trade
+  - risk-management
 author: Skyra CIP
-date: 2026-07-05
+date: 2026-08-09
 og:title: Commodity Market Intelligence - Global Energy & Fuel Analysis
 og:description: Comprehensive analysis of global commodity markets and energy pricing. Expert research by Skyra CIP.
 og:type: website
@@ -98,11 +108,51 @@ This pillar article covers **10 key pillars** of commodity market intelligence:
 
 ## Research Articles
 
+### Before You Sign a Purchase Order, Check These 8 Market Signals
+
+**Published:** August 9, 2026 | **Author:** Skyra CIP – Commodity Market Intelligence
+
+A purchase order is more than a commercial document. In commodity markets, it is a commitment to a market view. This research identifies 8 critical market signals that procurement teams should evaluate before signing.
+
+#### Topics Covered
+
+- Commodity Procurement
+- Market Signals
+- Supplier Pricing
+- Procurement Decision-Making
+- Market Benchmarking
+- Risk Management
+- Total Cost Analysis
+- Supply Chain Strategy
+
+#### Key Takeaways
+
+- 🔹 **Don't evaluate supplier quotes in isolation** - Understand the market behind the price
+- 🔹 **Market Benchmarks provide critical context** - Compare quotes against independent market data
+- 🔹 **Physical availability and inventory matter** - Supply conditions affect pricing and risk
+- 🔹 **Futures curves signal market direction** - Use forward indicators to assess value
+- 🔹 **Logistics and financing are hidden costs** - Total delivered cost differs from quoted price
+- 🔹 **Geopolitical risk can change market dynamics** - Supply disruptions affect procurement value
+- 🔹 **Refining margins impact commodity economics** - Understand product economics behind prices
+
+#### Why It Matters
+
+For:
+- **Procurement Teams** - Evaluate purchase orders using a structured framework
+- **Commodity Buyers** - Understand market signals before committing to contracts
+- **Supply Chain Managers** - Assess total cost and risk in procurement decisions
+- **Risk Managers** - Identify market and geopolitical risks in commodity markets
+- **Finance Teams** - Optimize procurement value and reduce hidden costs
+
+**[Read Full Article in Repository](/before-you-sign-purchase-order-8-market-signals.md)**
+
+---
+
 ### How Procurement Teams Benchmark Supplier Prices Like Professionals
 
 **Published:** August 5, 2026 | **Author:** Skyra CIP – Commodity Market Intelligence
 
-Professional procurement teams don't compare supplier quotations in isolation. They benchmark prices against market references, logistics costs, commercial terms, supplier reliability, and execution risk to determine true commercial value.
+Professional procurement teams don't compare supplier quotations in isolation. They benchmark prices against market references, logistics costs, commercial terms, supplier reliability, and execut[...]
 
 #### Topics Covered
 
@@ -313,10 +363,10 @@ This repository focuses on:
 
 | Audience | Focus Area | Key Articles |
 |----------|-----------|--------------|
-| **Traders** | Price drivers, market signals | Complete Guide, EN590 Diesel Pricing, FOB vs CIF |
+| **Traders** | Price drivers, market signals | Complete Guide, EN590 Diesel Pricing, FOB vs CIF, Purchase Order Signals |
 | **Logistics Managers** | Transportation costs, inventory | Refining Economics, Logistics Impact, FOB vs CIF, Hidden Costs |
-| **Procurement Teams** | Cost optimization, forecasting | Benchmarking Supplier Prices, Diesel Pricing, Regulatory Updates, FOB vs CIF, Hidden Costs |
-| **Investors** | Market trends, opportunities | Market Intelligence, Regulatory Trends |
+| **Procurement Teams** | Cost optimization, forecasting | Purchase Order Signals, Benchmarking Supplier Prices, Diesel Pricing, FOB vs CIF, Hidden Costs |
+| **Investors** | Market trends, opportunities | Market Intelligence, Regulatory Trends, Market Signals |
 | **Students/Researchers** | Foundational knowledge | Complete Guide, EN590 Standards, International Trade |
 
 ### Social Media & External Links
@@ -373,9 +423,25 @@ This repository and its contents are provided for educational use. See LICENSE f
 
 ---
 
-**Last Updated:** August 5, 2026  
+**Last Updated:** August 9, 2026  
 **Maintained by:** Skyra CIP – Commodity Market Intelligence  
 **Website:** https://skyra.com.hk
+
+---
+
+## GitHub Topics
+
+This repository uses the following GitHub topics for discoverability:
+- commodity-procurement
+- commodity-trading
+- market-intelligence
+- procurement-intelligence
+- commodity-pricing
+- supplier-pricing
+- market-signals
+- supply-chain
+- global-trade
+- risk-management
 
 ---
 
@@ -392,5 +458,5 @@ This repository and its contents are provided for educational use. See LICENSE f
 ---
 
 **Repository Status:** Active & Updated  
-**Last Article:** August 5, 2026  
+**Last Article:** August 9, 2026  
 **Follow for Updates:** [GitHub](https://github.com/skyra-cip) | [Medium](https://medium.com/@SkyraCIP) | [LinkedIn](https://www.linkedin.com/company/skyra-cip) | [X](https://x.com/SkyraCIP)
