@@ -27,6 +27,9 @@ keywords:
   - supply-chain
   - global-trade
   - risk-management
+  - fx-risk
+  - currency-risk
+  - procurement-risk
 author: Skyra CIP
 date: 2026-08-10
 og:title: Commodity Market Intelligence - Global Energy & Fuel Analysis
@@ -381,6 +384,13 @@ This repository focuses on:
 - 💰 Hidden cost analysis
 - 📈 Cost optimization techniques
 
+### FX & Currency Risk
+- 💱 Exchange rate impacts on procurement
+- 🔄 Currency exposure management
+- 📉 FX hedging strategies
+- 🌐 Multi-currency transactions
+- 💼 Payment timing and financing
+
 ---
 
 ## Key Resources
@@ -391,9 +401,10 @@ This repository focuses on:
 |----------|-----------|--------------|
 | **Traders** | Price drivers, market signals | Complete Guide, EN590 Diesel Pricing, FOB vs CIF, Purchase Order Signals |
 | **Logistics Managers** | Transportation costs, inventory | Refining Economics, Logistics Impact, FOB vs CIF, Hidden Costs |
-| **Procurement Teams** | Cost optimization, forecasting | Exchange Rates & FX, Purchase Order Signals, Benchmarking Supplier Prices, Diesel Pricing, FOB vs CIF, Hidden Costs |
+| **Procurement Teams** | Cost optimization, FX risk, forecasting | Exchange Rates & FX, Purchase Order Signals, Benchmarking Supplier Prices, Diesel Pricing, FOB vs CIF, Hidden Costs |
 | **Investors** | Market trends, opportunities | Market Intelligence, Regulatory Trends, Market Signals |
 | **Students/Researchers** | Foundational knowledge | Complete Guide, EN590 Standards, International Trade |
+| **Finance Teams** | Cost management, currency risk | Exchange Rates & FX, Hidden Costs, Benchmarking, Total Cost Analysis |
 
 ### Social Media & External Links
 
@@ -412,6 +423,7 @@ Follow Skyra CIP for regular commodity market insights:
 - Global energy and fuel markets
 - Diesel and refined product economics
 - Logistics and transportation costs
+- FX risk and currency exposure in global trade
 - Market trends and forecasting
 - Educational resources for market participants
 - Business verification and matching services
@@ -460,20 +472,20 @@ This repository and its contents are provided for educational use. See LICENSE f
 This repository uses the following GitHub topics for discoverability:
 - commodity-procurement
 - commodity-trading
-- market-intelligence
 - procurement-intelligence
+- fx-risk
+- currency-risk
 - commodity-pricing
+- market-intelligence
 - supplier-pricing
-- market-signals
-- supply-chain
 - global-trade
-- risk-management
+- procurement-risk
 
 ---
 
 ## SEO Optimization
 
-**Keywords:** commodity market intelligence, commodity markets 2026, supply analysis, demand analysis, logistics intelligence, inventory monitoring, pricing intelligence, market transparency, ris[...]
+**Keywords:** commodity market intelligence, commodity markets 2026, supply analysis, demand analysis, logistics intelligence, inventory monitoring, pricing intelligence, market transparency, FX risk, currency risk, procurement risk, ris[...]
 
 **External Backlinks:**
 - [Medium: The Complete Guide to Commodity Market Intelligence in 2026](https://medium.com/@SkyraCIP/the-complete-guide-to-commodity-market-intelligence-in-2026-7133db1deb8f)
