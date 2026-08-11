@@ -1,48 +1,3 @@
----
-title: Commodity Market Intelligence - Global Energy & Fuel Analysis
-description: Expert research, analysis and educational resources covering global commodity markets, energy, diesel pricing, logistics and market intelligence by Skyra CIP
-keywords: 
-  - commodity markets
-  - commodity market intelligence
-  - diesel pricing
-  - EN590
-  - energy markets
-  - fuel markets
-  - market intelligence
-  - logistics
-  - refining margins
-  - crude oil
-  - global energy
-  - market analysis
-  - energy trading
-  - supply analysis
-  - demand analysis
-  - commodity procurement
-  - commodity trading
-  - procurement intelligence
-  - procurement-intelligence
-  - commodity-pricing
-  - supplier-pricing
-  - market-signals
-  - supply-chain
-  - global-trade
-  - risk-management
-  - fx-risk
-  - currency-risk
-  - procurement-risk
-author: Skyra CIP
-date: 2026-08-10
-og:title: Commodity Market Intelligence - Global Energy & Fuel Analysis
-og:description: Comprehensive analysis of global commodity markets and energy pricing. Expert research by Skyra CIP.
-og:type: website
-og:url: https://github.com/skyra-cip/commodity-market-intelligence
-og:image: https://github.com/skyra-cip.png
-twitter:card: summary_large_image
-twitter:title: Commodity Market Intelligence in 2026
-twitter:description: Expert research, analysis and educational resources covering global commodity markets
-twitter:creator: @SkyraCIP
----
-
 # Commodity Market Intelligence
 
 [![Repository](https://img.shields.io/badge/Repository-Active-brightgreen)](https://github.com/skyra-cip/commodity-market-intelligence)
@@ -105,7 +60,7 @@ A comprehensive overview of how modern commodity intelligence supports decision-
 
 **Also available on:**
 - 📝 [Medium](https://medium.com/@SkyraCIP/the-complete-guide-to-commodity-market-intelligence-in-2026-7133db1deb8f)
-- 💼 [LinkedIn](https://www.linkedin.com/posts/skyra-cip_the-complete-guide-to-commodity-market-intelligence-activity-7479451743982911488-FUlU?utm_source=share&utm_medium=member_desktop&rcm=ACoA[...]
+- 💼 [LinkedIn](https://www.linkedin.com/posts/skyra-cip_the-complete-guide-to-commodity-market-intelligence-activity-7479451743982911488-FUlU?utm_source=share&utm_medium=member_desktop&rcm=ACo[...]
 - 𝕏 [X/Twitter](https://x.com/SkyraCIP/status/2073687759848399119)
 
 #### What You'll Learn
@@ -137,11 +92,50 @@ This pillar article covers **10 key pillars** of commodity market intelligence:
 
 ## Research Articles
 
+### The Procurement KPI Dashboard Every Purchasing Manager Should Have
+
+**Published:** August 11, 2026 | **Author:** Skyra CIP – Commodity Market Intelligence
+
+Procurement performance cannot be measured by price alone. A practical KPI dashboard connects market intelligence with supply chain decisions.
+
+#### Key Topics Covered
+
+- Market-adjusted savings and price variance
+- Total procurement cost analysis
+- Supplier performance metrics and fill rates
+- Contract coverage and market exposure
+- FX and supplier concentration risk
+- PO cycle time and savings realization
+- Outcome-focused performance measurement
+
+#### Key Takeaways
+
+- 🔹 **Procurement KPIs should measure outcomes, not activity** - Focus on business impact
+- 🔹 **Connect market data to procurement decisions** - Market intelligence drives better choices
+- 🔹 **The dashboard answers three critical questions:**
+  1. What changed?
+  2. Why did it change?
+  3. What should procurement do next?
+- 🔹 **Effective dashboards combine multiple data sources** - Market, supplier, cost, and risk data together
+
+#### Why It Matters
+
+For:
+- **Procurement Managers** - Build dashboards that drive better commercial decisions
+- **Supply Chain Directors** - Measure procurement effectiveness beyond price
+- **Finance Teams** - Connect procurement performance to business outcomes
+- **Risk Managers** - Monitor supplier and market concentration risk
+- **Executives** - Understand procurement's impact on business performance
+
+**[Read Full Article in Repository](/procurement-kpi-dashboard-purchasing-manager.md)**
+
+---
+
 ### Before You Sign a Purchase Order, Check These 8 Market Signals
 
 **Published:** August 9, 2026 | **Author:** Skyra CIP – Commodity Market Intelligence
 
-A purchase order is more than a commercial document. In commodity markets, it is a commitment to a market view. This research identifies 8 critical market signals that procurement teams should ev[...]
+A purchase order is more than a commercial document. In commodity markets, it is a commitment to a market view. This research identifies 8 critical market signals that procurement teams should evaluate.
 
 #### Topics Covered
 
@@ -181,7 +175,7 @@ For:
 
 **Published:** August 5, 2026 | **Author:** Skyra CIP – Commodity Market Intelligence
 
-Professional procurement teams don't compare supplier quotations in isolation. They benchmark prices against market references, logistics costs, commercial terms, supplier reliability, and execut[...]
+Professional procurement teams don't compare supplier quotations in isolation. They benchmark prices against market references, logistics costs, commercial terms, supplier reliability, and execution risk.
 
 #### Topics Covered
 
@@ -383,6 +377,7 @@ This repository focuses on:
 - 🔍 Supplier evaluation and verification
 - 💰 Hidden cost analysis
 - 📈 Cost optimization techniques
+- 📋 KPI dashboards and performance metrics
 
 ### FX & Currency Risk
 - 💱 Exchange rate impacts on procurement
@@ -398,10 +393,10 @@ This repository focuses on:
 ### For Different Audiences
 
 | Audience | Focus Area | Key Articles |
-|----------|-----------|--------------|
+|----------|-----------|---------------|
 | **Traders** | Price drivers, market signals | Complete Guide, EN590 Diesel Pricing, FOB vs CIF, Purchase Order Signals |
 | **Logistics Managers** | Transportation costs, inventory | Refining Economics, Logistics Impact, FOB vs CIF, Hidden Costs |
-| **Procurement Teams** | Cost optimization, FX risk, forecasting | Exchange Rates & FX, Purchase Order Signals, Benchmarking Supplier Prices, Diesel Pricing, FOB vs CIF, Hidden Costs |
+| **Procurement Teams** | Cost optimization, FX risk, forecasting | Exchange Rates & FX, Purchase Order Signals, Benchmarking Supplier Prices, Diesel Pricing, FOB vs CIF, Hidden Costs, Procurement KPI Dashboard |
 | **Investors** | Market trends, opportunities | Market Intelligence, Regulatory Trends, Market Signals |
 | **Students/Researchers** | Foundational knowledge | Complete Guide, EN590 Standards, International Trade |
 | **Finance Teams** | Cost management, currency risk | Exchange Rates & FX, Hidden Costs, Benchmarking, Total Cost Analysis |
@@ -425,6 +420,7 @@ Follow Skyra CIP for regular commodity market insights:
 - Logistics and transportation costs
 - FX risk and currency exposure in global trade
 - Market trends and forecasting
+- Procurement KPI and performance management
 - Educational resources for market participants
 - Business verification and matching services
 
@@ -451,7 +447,7 @@ This repository contains research and educational content. To contribute:
 
 ## Disclaimer
 
-This content is for educational and informational purposes only. It is not investment advice, and should not be used as the sole basis for trading or investment decisions. Energy markets are comp[...]
+This content is for educational and informational purposes only. It is not investment advice, and should not be used as the sole basis for trading or investment decisions. Energy markets are complex and subject to rapid change.
 
 ---
 
@@ -461,7 +457,7 @@ This repository and its contents are provided for educational use. See LICENSE f
 
 ---
 
-**Last Updated:** August 10, 2026  
+**Last Updated:** August 11, 2026  
 **Maintained by:** Skyra CIP – Commodity Market Intelligence  
 **Website:** https://skyra.com.hk
 
@@ -473,6 +469,7 @@ This repository uses the following GitHub topics for discoverability:
 - commodity-procurement
 - commodity-trading
 - procurement-intelligence
+- procurement-kpi
 - fx-risk
 - currency-risk
 - commodity-pricing
@@ -485,7 +482,7 @@ This repository uses the following GitHub topics for discoverability:
 
 ## SEO Optimization
 
-**Keywords:** commodity market intelligence, commodity markets 2026, supply analysis, demand analysis, logistics intelligence, inventory monitoring, pricing intelligence, market transparency, FX risk, currency risk, procurement risk, ris[...]
+**Keywords:** commodity market intelligence, commodity markets 2026, supply analysis, demand analysis, logistics intelligence, inventory monitoring, pricing intelligence, market transparency, FX risk, procurement KPI dashboard, purchasing manager, supplier performance
 
 **External Backlinks:**
 - [Medium: The Complete Guide to Commodity Market Intelligence in 2026](https://medium.com/@SkyraCIP/the-complete-guide-to-commodity-market-intelligence-in-2026-7133db1deb8f)
@@ -496,5 +493,5 @@ This repository uses the following GitHub topics for discoverability:
 ---
 
 **Repository Status:** Active & Updated  
-**Last Article:** August 10, 2026  
+**Last Article:** August 11, 2026  
 **Follow for Updates:** [GitHub](https://github.com/skyra-cip) | [Medium](https://medium.com/@SkyraCIP) | [LinkedIn](https://www.linkedin.com/company/skyra-cip) | [X](https://x.com/SkyraCIP)
